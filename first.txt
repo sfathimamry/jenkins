@@ -1,0 +1,4 @@
+#!/bin/bash
+uptime
+date
+echo "first webhook up job" >> /tmp/test
