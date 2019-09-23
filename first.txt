@@ -2,5 +2,6 @@
 uptime
 date
 echo "first webhook up job" >> /tmp/test
+echo "second webhook up job" >> /tmp/test
+echo "third webhook up job" >> /tmp/test
 
-second commit
